@@ -20,7 +20,7 @@
 B.Tech Computer Science student at **Lovely Professional University** (2027), focused on **backend engineering and full-stack web development**. I build production-grade RESTful APIs, design relational and document-based data models, and deliver end-to-end applications with clean architecture. Stronger on the backend side — Node.js, Express, PostgreSQL, and MongoDB are my primary tools. I work with React and TypeScript on the frontend when needed.
 
 ```yaml
-📍 Location  : Ludhiana, Punjab, India
+📍 Location  : Phagwara, Punjab, India
 🎓 Education : LPU — B.Tech CSE | CGPA: 7.96 / 10.0 | Expected May 2027
 🔧 Stack     : Node.js · Express.js · TypeScript · PostgreSQL · MongoDB · Prisma · React.js
 📬 Email     : debaprakashjena2021@gmail.com
